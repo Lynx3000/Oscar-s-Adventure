@@ -1,2 +1,3 @@
 # Oscar-s-Adventure
-Javascript - basic text adventure engine
+Vanilla javascript learning project
+Basic text adventure engine using if/else statements
